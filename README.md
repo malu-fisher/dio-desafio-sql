@@ -1,6 +1,7 @@
 # 🎬 Consultas SQL - Base de Dados de Filmes
 
-Este repositório contém diversas consultas SQL para explorar dados de uma base com informações sobre filmes, atores e gêneros.Todas as consultas estão agrupadas e descritas a seguir:
+Este repositório contém diversas consultas SQL para explorar dados de uma base com informações sobre filmes, atores e gêneros, como parte do curso de End to End Engineering da DIO -  WEX. 
+Todas as consultas estão agrupadas e descritas a seguir:
 
 ---
 <h1>📌 Índice & Imagens</h1>
